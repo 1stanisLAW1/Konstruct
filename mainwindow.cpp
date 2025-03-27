@@ -39,7 +39,7 @@ MainWindow::MainWindow(QWidget *parent)
 
    QString executablePath = QCoreApplication::applicationDirPath();
 
-    dirPath = executablePath + "/../DB";
+    dirPath = executablePath + "/../LoadTXT";
 
     QPushButton *btnDialog= new QPushButton();
     btnDialog->setText("Download");
