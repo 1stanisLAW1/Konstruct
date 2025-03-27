@@ -276,6 +276,7 @@ bool MainWindow::streamText(QString str)
 
 void MainWindow::loadFromTxtFile(QString str)
 {
+    ModulDowload.clear();
     mTelSystem.clearScene();
     QString pathF = dirPath + "/" + str + ".txt";
 
