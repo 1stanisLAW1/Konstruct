@@ -1,0 +1,6 @@
+Name-Модулятор Total length- 0 Length- 3200
+Name-Отклонение фаз Total length- 1500 Length- 1500
+Name-модуль телескопический Total length- 3200 Length- 1324
+Name-модуль стыковочный Total length- 4524 Length- 600
+Name-модуль Генератора Total length- 5124 Length- 1300
+Name-Обороты турбины Total length- 6124 Length- 1000
